@@ -1,0 +1,1 @@
+let blob = await fetch(www.udemy.com/39f5efd5-4f04-4dc0-8c23-0cb29cfd7142).then(r => r.blob())
